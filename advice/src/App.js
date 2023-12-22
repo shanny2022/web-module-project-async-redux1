@@ -30,11 +30,11 @@ const MainStyle = styled.header`
   padding: 2%;
   padding-bottom: 4%;
   border-radius: 10px;
-  border: 8px dotted-thin #203B3D;
+  border: 8px dotted #203B3D;
 `;
 const HeaderStyle = styled.h1`
   color: #203B3D;
-  
+
 `;
 
 export default App;
